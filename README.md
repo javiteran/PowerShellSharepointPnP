@@ -2,17 +2,17 @@
 Power ShellSharepoint PnP. Creación y modificación de listas, campos e inserción de datos
 
 
-Es necesario tener instalado el módulo SharePointPnPPowerShellOnline
-    # uninstall-module SharePointPnPPowerShellOnline
-      Install-Module SharePointPnPPowerShellOnline 
+Es necesario tener instalado el módulo SharePointPnPPowerShellOnline</br>
+    # uninstall-module SharePointPnPPowerShellOnline</br>
+      Install-Module SharePointPnPPowerShellOnline </br>
 
-La información se ha obtenido de las siguiente fuentes
+La información se ha obtenido de las siguiente fuentes</br>
 https://channel9.msdn.com/Blogs/MVP-Azure/Work-with-SharePoint-Online-lists-with-PNP-PowerShell
 
 
-#Información de las opciones del campo FIELD
+#Información de las opciones del campo FIELD</br>
     https://msdn.microsoft.com/en-us/library/office/aa979575.aspx
-
+    
     https://olafd.wordpress.com/2017/05/09/create-fields-from-xml-for-sharepoint-online/
 
 #Formulas de campos calculados
