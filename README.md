@@ -1,6 +1,7 @@
 # PowerShellSharepointPnP
 Power ShellSharepoint PnP. Creación y modificación de listas, campos e inserción de datos
 
+https://informatica.javiteran.com/2018/03/08Office365.html
 
 Es necesario tener instalado el módulo SharePointPnPPowerShellOnline</br>
     # uninstall-module SharePointPnPPowerShellOnline</br>
